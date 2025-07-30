@@ -11,6 +11,7 @@ body {
 
 .container {
     text-align: center;
+    margin-top: 20px;
 }
 
 .profile-pic {
@@ -37,15 +38,16 @@ body {
 .footer {
     position: fixed;
     bottom: 0;
-    right: 10px;
+    right: 5px;
     width: 100%;
     text-align: right;
-    padding: 10px;
+    padding: 5px;
+    color: #ffffff9b;
 }
 
 .footer-link {
     text-decoration: none;
-    color: #fff;
+    color: #ffffff9b;
     font-weight: bold;
 }
 
